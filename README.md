@@ -65,7 +65,7 @@ Weight update statistics (e.g., delta mean/std/max)
 
 Visualizations of internal representations
 
-🖥 Hardware Support
+Hardware Support
 
 Works on CPU
 
