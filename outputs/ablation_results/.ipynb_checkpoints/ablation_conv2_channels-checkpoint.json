@@ -1,0 +1,514 @@
+[
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 0,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9904,
+    "acc_drop": -0.0005999999999999339
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 1,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 2,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9894,
+    "acc_drop": 0.00040000000000006697
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 3,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 4,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9894,
+    "acc_drop": 0.00040000000000006697
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 5,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 6,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.99,
+    "acc_drop": -0.00019999999999997797
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 7,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9895,
+    "acc_drop": 0.00029999999999996696
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 8,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 9,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 10,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9895,
+    "acc_drop": 0.00029999999999996696
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 11,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 12,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9888,
+    "acc_drop": 0.0010000000000000009
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 13,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.99,
+    "acc_drop": -0.00019999999999997797
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 14,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.989,
+    "acc_drop": 0.0008000000000000229
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 15,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9896,
+    "acc_drop": 0.00019999999999997797
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 16,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 17,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9892,
+    "acc_drop": 0.0006000000000000449
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 18,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 19,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9901,
+    "acc_drop": -0.00029999999999996696
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 20,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9895,
+    "acc_drop": 0.00029999999999996696
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 21,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 22,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 23,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 24,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 25,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9896,
+    "acc_drop": 0.00019999999999997797
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 26,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 27,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9901,
+    "acc_drop": -0.00029999999999996696
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 28,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 29,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9899,
+    "acc_drop": -9.999999999998899e-05
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 30,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 31,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9901,
+    "acc_drop": -0.00029999999999996696
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 32,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.99,
+    "acc_drop": -0.00019999999999997797
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 33,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9894,
+    "acc_drop": 0.00040000000000006697
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 34,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 35,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9893,
+    "acc_drop": 0.000500000000000056
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 36,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 37,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9899,
+    "acc_drop": -9.999999999998899e-05
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 38,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 39,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 40,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9899,
+    "acc_drop": -9.999999999998899e-05
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 41,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9896,
+    "acc_drop": 0.00019999999999997797
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 42,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.99,
+    "acc_drop": -0.00019999999999997797
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 43,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9896,
+    "acc_drop": 0.00019999999999997797
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 44,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9894,
+    "acc_drop": 0.00040000000000006697
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 45,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 46,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9904,
+    "acc_drop": -0.0005999999999999339
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 47,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 48,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.99,
+    "acc_drop": -0.00019999999999997797
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 49,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9895,
+    "acc_drop": 0.00029999999999996696
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 50,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.99,
+    "acc_drop": -0.00019999999999997797
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 51,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 52,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9902,
+    "acc_drop": -0.00039999999999995595
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 53,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9899,
+    "acc_drop": -9.999999999998899e-05
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 54,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 55,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9896,
+    "acc_drop": 0.00019999999999997797
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 56,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9894,
+    "acc_drop": 0.00040000000000006697
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 57,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9895,
+    "acc_drop": 0.00029999999999996696
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 58,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9893,
+    "acc_drop": 0.000500000000000056
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 59,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.99,
+    "acc_drop": -0.00019999999999997797
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 60,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9902,
+    "acc_drop": -0.00039999999999995595
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 61,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9901,
+    "acc_drop": -0.00029999999999996696
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 62,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9901,
+    "acc_drop": -0.00029999999999996696
+  },
+  {
+    "type": "conv_channel",
+    "layer": "features[3]",
+    "channel": 63,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  }
+]

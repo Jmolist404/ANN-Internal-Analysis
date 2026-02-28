@@ -1,0 +1,1026 @@
+[
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 0,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9896,
+    "acc_drop": 0.00019999999999997797
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 1,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 2,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.989,
+    "acc_drop": 0.0008000000000000229
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 3,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 4,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 5,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 6,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 7,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.99,
+    "acc_drop": -0.00019999999999997797
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 8,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 9,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9904,
+    "acc_drop": -0.0005999999999999339
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 10,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9892,
+    "acc_drop": 0.0006000000000000449
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 11,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9899,
+    "acc_drop": -9.999999999998899e-05
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 12,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 13,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9904,
+    "acc_drop": -0.0005999999999999339
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 14,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9892,
+    "acc_drop": 0.0006000000000000449
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 15,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 16,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.99,
+    "acc_drop": -0.00019999999999997797
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 17,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 18,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 19,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9902,
+    "acc_drop": -0.00039999999999995595
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 20,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 21,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9894,
+    "acc_drop": 0.00040000000000006697
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 22,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 23,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 24,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 25,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 26,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 27,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9901,
+    "acc_drop": -0.00029999999999996696
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 28,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9905,
+    "acc_drop": -0.0007000000000000339
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 29,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 30,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9896,
+    "acc_drop": 0.00019999999999997797
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 31,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9906,
+    "acc_drop": -0.0008000000000000229
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 32,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 33,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9896,
+    "acc_drop": 0.00019999999999997797
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 34,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 35,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 36,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9895,
+    "acc_drop": 0.00029999999999996696
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 37,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.989,
+    "acc_drop": 0.0008000000000000229
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 38,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 39,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 40,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 41,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 42,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 43,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9893,
+    "acc_drop": 0.000500000000000056
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 44,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9896,
+    "acc_drop": 0.00019999999999997797
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 45,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 46,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 47,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 48,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9892,
+    "acc_drop": 0.0006000000000000449
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 49,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 50,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 51,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 52,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9899,
+    "acc_drop": -9.999999999998899e-05
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 53,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 54,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9895,
+    "acc_drop": 0.00029999999999996696
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 55,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9894,
+    "acc_drop": 0.00040000000000006697
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 56,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9902,
+    "acc_drop": -0.00039999999999995595
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 57,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 58,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9884,
+    "acc_drop": 0.0014000000000000679
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 59,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9902,
+    "acc_drop": -0.00039999999999995595
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 60,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9894,
+    "acc_drop": 0.00040000000000006697
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 61,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9877,
+    "acc_drop": 0.0020999999999999908
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 62,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 63,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.989,
+    "acc_drop": 0.0008000000000000229
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 64,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 65,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 66,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9901,
+    "acc_drop": -0.00029999999999996696
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 67,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.99,
+    "acc_drop": -0.00019999999999997797
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 68,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9895,
+    "acc_drop": 0.00029999999999996696
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 69,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9895,
+    "acc_drop": 0.00029999999999996696
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 70,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 71,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 72,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 73,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 74,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9895,
+    "acc_drop": 0.00029999999999996696
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 75,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 76,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 77,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 78,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.989,
+    "acc_drop": 0.0008000000000000229
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 79,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9895,
+    "acc_drop": 0.00029999999999996696
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 80,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9899,
+    "acc_drop": -9.999999999998899e-05
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 81,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9901,
+    "acc_drop": -0.00029999999999996696
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 82,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 83,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 84,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 85,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 86,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9883,
+    "acc_drop": 0.0015000000000000568
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 87,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9893,
+    "acc_drop": 0.000500000000000056
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 88,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.989,
+    "acc_drop": 0.0008000000000000229
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 89,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9899,
+    "acc_drop": -9.999999999998899e-05
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 90,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 91,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.989,
+    "acc_drop": 0.0008000000000000229
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 92,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9896,
+    "acc_drop": 0.00019999999999997797
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 93,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9896,
+    "acc_drop": 0.00019999999999997797
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 94,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9886,
+    "acc_drop": 0.0011999999999999789
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 95,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9899,
+    "acc_drop": -9.999999999998899e-05
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 96,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9881,
+    "acc_drop": 0.0017000000000000348
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 97,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 98,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 99,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 100,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.99,
+    "acc_drop": -0.00019999999999997797
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 101,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9895,
+    "acc_drop": 0.00029999999999996696
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 102,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 103,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 104,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9895,
+    "acc_drop": 0.00029999999999996696
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 105,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.989,
+    "acc_drop": 0.0008000000000000229
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 106,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 107,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 108,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9894,
+    "acc_drop": 0.00040000000000006697
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 109,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9896,
+    "acc_drop": 0.00019999999999997797
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 110,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 111,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 112,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9894,
+    "acc_drop": 0.00040000000000006697
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 113,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 114,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9901,
+    "acc_drop": -0.00029999999999996696
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 115,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.99,
+    "acc_drop": -0.00019999999999997797
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 116,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 117,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9893,
+    "acc_drop": 0.000500000000000056
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 118,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 119,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 120,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 121,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9897,
+    "acc_drop": 9.999999999998899e-05
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 122,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 123,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9896,
+    "acc_drop": 0.00019999999999997797
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 124,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9899,
+    "acc_drop": -9.999999999998899e-05
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 125,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 126,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9899,
+    "acc_drop": -9.999999999998899e-05
+  },
+  {
+    "type": "fc_neuron",
+    "layer": "classifier[1]",
+    "neuron": 127,
+    "baseline_acc": 0.9898,
+    "ablated_acc": 0.9898,
+    "acc_drop": 0.0
+  }
+]
