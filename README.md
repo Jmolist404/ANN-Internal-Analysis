@@ -2,6 +2,7 @@
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/ANN-Internal-Analysis.git
 cd ANN-Internal-Analysis
+
 2️⃣ Create a Virtual Environment (Recommended)
 
 Using venv:
@@ -9,6 +10,7 @@ Using venv:
 python -m venv venv
 source venv/bin/activate        # Mac/Linux
 venv\Scripts\activate           # Windows
+
 3️⃣ Install Dependencies
 
 If a requirements.txt file is included:
@@ -18,10 +20,12 @@ pip install -r requirements.txt
 If not, install the core libraries manually:
 
 pip install torch torchvision matplotlib numpy jupyter
+
 4️⃣ Launch Jupyter Notebook
 jupyter notebook
 
 Open the main notebook file (e.g., ANN_Internal_Analysis.ipynb).
+
 
 5️⃣ Run the Notebook Cells in Order
 
@@ -46,6 +50,7 @@ Run all cells sequentially from top to bottom to ensure proper execution.
 If a .py training script is provided:
 
 python train.py
+
 7️⃣ Expected Outputs
 
 After running successfully, you should see:
